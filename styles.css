@@ -1,6 +1,6 @@
 body {
-    color: white;
-    background: black;
+   background: #5b096e;
+background: radial-gradient(circle,rgba(91, 9, 110, 1) 0%, rgba(30, 9, 36, 1) 15%, rgba(89, 6, 115, 1) 27%, rgba(153, 33, 196, 1) 42%, rgba(241, 233, 245, 1) 52%, rgba(92, 14, 140, 1) 100%); color: white;
     margin: 0px;
     font-family: "Chakra Petch", sans-serif;
     margin-bottom: 100px;
