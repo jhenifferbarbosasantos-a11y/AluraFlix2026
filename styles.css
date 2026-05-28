@@ -7,7 +7,7 @@ background: radial-gradient(circle,rgb(122, 4, 148) 0%, #8708aa 15%, #a90fd8 27%
 }
 
 header {
-    border-bottom: solid 2px rgb(151, 4, 144);
+    border-bottom: solid 2px #ce1bc5;
     padding: 20px;
     font-size: 32px;
     color: rgb(131, 12, 91);
